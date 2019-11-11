@@ -40,7 +40,7 @@ date_format = "Jan 2006"
   location = "Milpitas, California"
   date_start = "2017-06-10"
   date_end = "2017-09-10"
-  description = """Conducted failure analysis of electrochromic glass. Automated the generation and FA for implementation into the workflow.
+  description = """Conducted failure analysis of electrochromic glass. Automated the generation and FA for implementation into the workflow using basic computer vision.
   Responsibilities include:
 
   * Communicating with failure experts
