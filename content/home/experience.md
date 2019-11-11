@@ -25,11 +25,12 @@ date_format = "Jan 2006"
   date_start = "2018-06-10"
   date_end = "2018-09-10"
   description = """
+  Built and deployed an edge detection algorithm for surveyors via iOS AR Camera application. Rebuilt existing framework, GPUImage.
   Responsibilities include:
 
-  * Analysing
-  * Modelling
-  * Deploying
+  * Development
+  * Reworking based on user surveys
+  * Deploying into existing codebase
   """
 
 [[experience]]
@@ -39,6 +40,11 @@ date_format = "Jan 2006"
   location = "Milpitas, California"
   date_start = "2017-06-10"
   date_end = "2017-09-10"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """Conducted failure analysis of electrochromic glass. Automated the generation and FA for implementation into the workflow.
+  Responsibilities include:
+
+  * Communicating with failure experts
+  * Developing a realistic model to be implemented
+  * Presenting work to the head of technology and failure analysis group."""
 
 +++

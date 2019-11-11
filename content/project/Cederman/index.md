@@ -1,5 +1,5 @@
 ---
-title: Formation of Nations
+title: Emergent Actors
 summary: Evaluating the validity of Lars-Erik Cederman's analysis.
 tags:
 - Professional
