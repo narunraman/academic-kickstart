@@ -18,9 +18,25 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Independent Researcher"
+  company = "University of British Columbia"
+  company_url = "https://www.cs.ubc.ca/"
+  location = "Vancouver, British Columbia, Canada"
+  date_start = "2019-09-23"
+  date_end = ""
+  description = """
+  Built and end to end data provenance collection tool. Specifically showing the connection between two application level provenance collection tools with a system level tool.
+  Responsibilities include:
+
+  * Independent research
+  * Working with kernel level development
+  * Cross-platform, multi-language development (R, Python, C)
+  """
+
+[[experience]]
   title = "Software Engineer Intern"
   company = "Overlay Inc."
-  company_url = ""
+  company_url = "https://www.overlay.com.ar/"
   location = "Menlo Park, California"
   date_start = "2018-06-10"
   date_end = "2018-09-10"
@@ -36,7 +52,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Pilot R&D Intern"
   company = "View Inc."
-  company_url = ""
+  company_url = "https://view.com/"
   location = "Milpitas, California"
   date_start = "2017-06-10"
   date_end = "2017-09-10"

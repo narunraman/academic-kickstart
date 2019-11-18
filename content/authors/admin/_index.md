@@ -21,21 +21,22 @@ organizations:
 bio: My research interests include game theory, DNA computation and machine learning.
 
 interests:
-- Game Theory
-- Computational Economics
+- Algorithmic Game Theory
+- Data Analysis
 - DNA Computation
 - Opinion Dynamics
 - Machine Learning
+- Computational Economics
 
 education:
   courses:
-  - course: Research at an External University
-    institution: University of British Columbia
-    year: 2019
+#  - course: Research at an External University
+#    institution: University of British Columbia
+#    year: 2019
   - course: History of Computing in England
     institution: Cambridge University
     year: 2019
-  - course: BA in Computer Science and Mathematics
+  - course: BA in Computer Science and Math
     institution: Carleton College
     year: 2020
 
@@ -73,8 +74,8 @@ email: ""
 # - Visitors
 ---
 
-Hi, I'm Narun Raman! Pronounced like Maroon Ramen (quite an unappetizing sight) with an N (people have interpreted this slightly incorrectly and called me Manun so maybe I should find a new explanation). Feel free to send me pictures of oddly colored noodles.
+Hi, I'm Narun Raman! Pronounced like Maroon Ramen (quite an unappetizing sight) with an N. People have interpreted this slightly incorrectly and called me Manun so maybe I should find a new explanation. Feel free to send me pictures of oddly colored noodles.
 
 I am currently a senior (fourth-year) undergraduate student pursuing a Bachelor's in Computer Science, Mathematics, and Public Policy at Carleton College (not the University) in the land of Cows, Colleges, and Contentment: Northfield, Minnesota.
 
-I am very available via email, my basic interests are detailed below and I am interested in working in those areas. Please reach out if you need a plucky undergraduate for your research.
+I am very available via email, my basic interests are detailed below and I am interested in working in those areas. Please reach out if you want to work with a plucky undergraduate -- I would love to get coffee.
