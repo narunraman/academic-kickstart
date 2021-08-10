@@ -1,6 +1,6 @@
 ---
-title: Emergent Actors
-summary: Evaluating the validity of Lars-Erik Cederman's analysis.
+title: Actors in IR
+summary: Evaluating the validity of Lars-Erik Cederman's agent-based model.
 tags:
 - Professional
 - Applied

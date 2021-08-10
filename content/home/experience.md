@@ -18,15 +18,31 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Technology Associate"
+  company = "Wells Fargo"
+  company_url = ""
+  location = "Minneapolis, Minnesota"
+  date_start = "2020-07-13"
+  date_end = ""
+  description = """
+  Member of the identity assurance team. Worked with cucumber, spring boot, and cricket frameworks.
+  Responsibilities included:
+
+  * FILLER
+  * FILLER
+  * FILLER
+  """
+
+[[experience]]
   title = "Independent Researcher"
   company = "University of British Columbia"
   company_url = "https://www.cs.ubc.ca/"
   location = "Vancouver, British Columbia, Canada"
   date_start = "2019-09-23"
-  date_end = ""
+  date_end = "2019-12-15"
   description = """
   Built and end to end data provenance collection tool. Specifically showing the connection between two application level provenance collection tools with a system level tool.
-  Responsibilities include:
+  Responsibilities included:
 
   * Independent research
   * Working with kernel level development
@@ -41,8 +57,8 @@ date_format = "Jan 2006"
   date_start = "2018-06-10"
   date_end = "2018-09-10"
   description = """
-  Built and deployed an edge detection algorithm for surveyors via iOS AR Camera application. Rebuilt existing framework, GPUImage.
-  Responsibilities include:
+  Built and deployed an edge detection algorithm for surveyors via iOS AR Camera application. Rebuilt existing framework GPUImage for AR workflow.
+  Responsibilities included:
 
   * Development
   * Reworking based on user surveys
@@ -57,7 +73,7 @@ date_format = "Jan 2006"
   date_start = "2017-06-10"
   date_end = "2017-09-10"
   description = """Conducted failure analysis of electrochromic glass. Automated the generation and FA for implementation into the workflow using basic computer vision.
-  Responsibilities include:
+  Responsibilities included:
 
   * Communicating with failure experts
   * Developing a realistic model to be implemented

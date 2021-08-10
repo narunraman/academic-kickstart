@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Undergraduate Student
+role: Incoming Master's Student
 
 # Organizations/Affiliations
 organizations:
-- name: Carleton College
-  url: "https://www.carleton.edu"
+- name: University of British Columbia
+  url: "https://www.cs.ubc.ca"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include game theory, DNA computation and machine learning.
@@ -24,7 +24,7 @@ interests:
 - Algorithmic Game Theory
 - Data Analysis
 - DNA Computation
-- Opinion Dynamics
+- Incentive-Aware Mechanism Design
 - Machine Learning
 - Computational Economics
 
@@ -33,8 +33,8 @@ education:
 #  - course: Research at an External University
 #    institution: University of British Columbia
 #    year: 2019
-  - course: History of Computing in England
-    institution: Cambridge University
+  - course: History of Computing in England (Semester Abroad)
+    institution: Carleton College
     year: 2019
   - course: BA in Computer Science and Math
     institution: Carleton College
@@ -45,9 +45,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: "mailto:narun.raman@gmail.com"
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/narunraman
 #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
@@ -74,8 +74,6 @@ email: ""
 # - Visitors
 ---
 
-Hi, I'm Narun Raman! Pronounced like Maroon Ramen (quite an unappetizing sight) with an N. People have interpreted this slightly incorrectly and called me Manun so maybe I should find a new explanation. Feel free to send me pictures of oddly colored noodles.
+Hi, I'm Narun Raman! Pronounced like Maroon Ramen (quite an unappetizing sight) with an N. People have sometimes interpreted this slightly incorrectly and called me Manun so maybe I should find a new explanation. However, Feel free to send me pictures of oddly colored noodles.
 
-I am currently a senior (fourth-year) undergraduate student pursuing a Bachelor's in Computer Science, Mathematics, and Public Policy at Carleton College (not the University) in the land of Cows, Colleges, and Contentment: Northfield, Minnesota.
-
-I am very available via email, my basic interests are detailed below and I am interested in working in those areas. Please reach out if you want to work with a plucky undergraduate -- I would love to get coffee.
+I will be starting a Master's program in Computer Science at the University of British Columbia in 2021 fall. I am very available via email, my basic interests are detailed below and I am interested in working in those areas. Please reach out if you want to work with me -- my physical body is in Minneapolis but I can be reached at [narun dot raman at gmail dot com].
